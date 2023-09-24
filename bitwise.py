@@ -1,7 +1,15 @@
-a=int(input("enter 1st number: "))
-b=int(input("enter 2nd number: "))
+#PROGRAM TO DEMONSTRATE BITWISE OPERATOR &,|,>>,<<,^
 
-print("bitwise and",a & b)
-print("biwise or",a | b )
-print("not operator",~a)
-print("xor operator",a^b)
+
+print(13&23)
+print(13|23)
+print(13 ^23)
+print(7&23)
+print(7|23)
+print(7 ^ 23)
+print(10>>2)
+print(10<<2)
+print(7>>2)
+print(7<<2)
+print(~10)
+print(~-10)
