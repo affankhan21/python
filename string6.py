@@ -1,0 +1,6 @@
+data1=input("ENTER THE STRING :")
+print(len(data1))
+print(data1.capitalize())
+print(data1.upper())
+print(data1.lower())
+print(data1.index("a",3))

@@ -1,0 +1,11 @@
+data4=[34,87,95.90,56,"READY",True,56]
+print(data4)
+data4.append(78)
+print(data4)
+data4.insert(5,45)
+print(data4)
+data2=[2,34,567]
+data4.extend(data2)
+print(data4)
+data4.insert(55,786)
+print(data4)

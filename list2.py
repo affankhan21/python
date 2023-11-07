@@ -1,0 +1,10 @@
+data1=[23,56,45.78,"HELLO WORLD !!!",90,True]
+print(data1)
+print(type(data1))
+data2=list([21,42,53,64,75,"welcome",False])
+print(data2)
+print(type(data2))
+print("FIRST ELEMENT IS   ->",data2[0])
+print("SECOND ELEMENT IS  ->",data2[1])
+print("THIRD  ELEMENT IS  ->",data2[2])
+print("FOURTH ELEMENT IS  ->",data2[3])
